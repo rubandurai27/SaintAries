@@ -75,7 +75,8 @@ GROUP_START_IMG = (
 PM_START_TEXT = """
 Hello there, [👋](https://telegra.ph/file/ac893610cae84f302b2da.jpg) I'm {}.
 Im Powerfull Management Bot And I Will Help In Managing Your Group.
-Maintained by : [Aryza](https://t.me/idzxartez)
+𝐂𝐥𝐢𝐤𝐞 𝐁𝐞𝐥𝐨𝐰 𝐓𝐡𝐞 𝐁𝐮𝐭𝐭𝐨𝐧 𝐀𝐧𝐝 𝐆𝐞𝐭 𝐃𝐨𝐜𝐮𝐦𝐚𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐎𝐟 𝐌𝐨𝐝𝐮𝐥𝐞𝐬..
+Maintained by : [POWERROCKERS](https://t.me/POWERROCKERS)
 Founder And Dev Of : [IDZEROID SYNDICATES](https://t.me/idzeroidsupport).
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 • *Uptime:* `{}`
@@ -92,20 +93,20 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text=" ➕ ｢ Summon Me 」➕ ",
+            text=" ➕ ｢ ADD YOUR GROUP 」➕ ",
             url="t.me/idzeroid_bot?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text=" ｢ Support 」", url="http://t.me/idzeroidsupport"),
-        InlineKeyboardButton(text=" [❌] ", callback_data="close"),
-        InlineKeyboardButton(text=" ｢ Update 」", url="http://t.me/idzeroid"),
+        InlineKeyboardButton(text=" ｢ Support 」", url="http://t.me/POWERROCKERS"),
+        InlineKeyboardButton(text=" [Close] ", callback_data="close"),
+        InlineKeyboardButton(text=" ｢ Update 」", url="http://t.me/TNROCKERS2021"),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [Saint Aries](https://telegra.ph/file/ac893610cae84f302b2da.jpg)
+*Main Commands :* [VAATHI](https://telegra.ph/file/ac893610cae84f302b2da.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -265,10 +266,10 @@ def start(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Support", url=f"https://telegram.dog/idzeroidsupport"
+                            text="Support", url=f"https://telegram.dog/POWERROCKERS"
                         ),
                         InlineKeyboardButton(
-                            text="Updates", url="https://telegram.dog/idzeroid"
+                            text="Updates", url="https://telegram.dog/TNROCKERS2021"
                         ),
                     ],
                 ]
@@ -628,10 +629,10 @@ def get_help(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Support", url=f"https://telegram.dog/idzeroidsupport"
+                            text="Support", url=f"https://telegram.dog/POWERROCKERS"
                         ),
                         InlineKeyboardButton(
-                            text="Updates", url="https://telegram.dog/idzeroid"
+                            text="Updates", url="https://telegram.dog/TNROCKERS2021"
                         ),
                     ],
                     [
