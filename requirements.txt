@@ -11,8 +11,8 @@ beautifulsoup4
 gitpython
 requests
 httpx
-python-telegram-bot==13.8.1
-SQLAlchemy==1.4.28
+python-telegram-bot==13.10
+SQLAlchemy==1.4.30
 youtube_dl
 python-dotenv==0.19.2
 psycopg2-binary
@@ -21,7 +21,7 @@ faker
 carbonnow
 validators
 hachoir==3.1.2
-pykeyboard==0.1.2
+pykeyboard==0.1.4
 pynewtonmath==1.0.1
 aiofiles==0.8.0
 ffmpeg
@@ -29,8 +29,8 @@ pyjokes
 spongemock==0.3.4
 zalgo-text==0.6
 geopy
-nltk==3.6.5
-psutil==5.8.0
+nltk==3.6.6
+psutil==5.9.0
 aiohttp>=2.2.5
 pillow
 CurrencyConverter
@@ -39,7 +39,7 @@ google_trans_new
 jikanpy
 speedtest-cli
 coffeehouse==2.2.6
-regex==2021.11.10
+regex==2022.1.18
 bleach
 wikipedia
 markdown2
@@ -56,7 +56,7 @@ ujson
 pretty-errors
 pygithub
 tgcrypto
-pyrogram==1.2.20
+pyrogram==1.3.6
 humanize
 #PyDictionary==2.0.1
 youtube_search_python
@@ -86,13 +86,13 @@ better_profanity==0.7.0
 textblob==0.17.1 
 nudepy==0.5.1
 motor>=2.1.0,<2.6.0
-gpytranslate==1.3.0
-fontTools==4.28.3
+gpytranslate==1.4.0
+fontTools==4.29.0
 opencv-python-headless
 odmantic==0.3.5
 nekos.py
 pendulum==2.1.2
-launchpadlib==1.10.15.1
+launchpadlib==1.10.16
 requests_html==0.10.0
 pydub==0.25.1
 google-api-python-client
@@ -103,8 +103,8 @@ cowpy
 glitch_this==1.0.2
 uvloop==0.16.0
 youtube_search
-pytube==11.0.1
+pytube==11.0.2
 cryptg==0.2.post4
-aioredis==2.0.0
-NumPy==1.21.4
+aioredis==2.0.1
+NumPy==1.22.1
 yt-dlp
